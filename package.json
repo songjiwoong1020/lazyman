@@ -1,0 +1,25 @@
+{
+  "name": "lazyman",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songjiwoong1020/lazyman.git"
+  },
+  "author": "jiwoong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songjiwoong1020/lazyman/issues"
+  },
+  "homepage": "https://github.com/songjiwoong1020/lazyman#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "node-schedule": "^2.1.1"
+  }
+}
